@@ -41,11 +41,11 @@ In AI systems, **guardrails** act as **rules or constraints** that prevent an AI
 
 ---
 
-### 📦 guardrails-agentic-ai
-├── class_timing.py # Class timing guardrail
+### 📦 Guardrails Agentic AI
+
+├── class.py # Class timing guardrail
 ├── father.py # Father guardrail
-├── gatekeeper.py # Gatekeeper guardrail
-├── requirements.txt # Dependencies
+├── gate_keeper.py # Gatekeeper guardrail
 └── README.md # Documentation
 
 ---
@@ -76,4 +76,5 @@ cd Guardrails-in-Agentic-AI
 👩‍💻 **Rahat Bano** 💬 "AI should be powerful — but always responsible. Guardrails make sure of that."
 
 ## 📂 Project Structure
+
 
